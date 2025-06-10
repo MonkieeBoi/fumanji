@@ -3,13 +3,14 @@ from sys import argv
 
 
 EMOJI_MAP = {
-    ord('I'): '🟦',
+    ord('I'): '📘',
     ord('J'): '🟦',
     ord('L'): '🟧',
     ord('O'): '🟨',
     ord('S'): '🟩',
     ord('T'): '🟪',
     ord('Z'): '🟥',
+    ord('X'): '⬜',
     ord('_'): '⬛'
 }
 
